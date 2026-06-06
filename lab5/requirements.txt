@@ -2,3 +2,6 @@ pandas
 huggingface_hub
 fastparquet
 pyarrow
+fsspec
+huggingface_hub
+matplotlib
